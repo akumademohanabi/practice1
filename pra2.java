@@ -5,6 +5,6 @@ public class pra2{
 		System.out.println("Hello World");
 		i + 1 = i;
 	}
-	}
+     }
 }
 
